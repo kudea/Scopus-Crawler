@@ -1,4 +1,4 @@
-# Scopus-Crawler
+# Scopus Crawler
 Crawl data from Scopus
 ## Background Info
 Require Scpous Account and legal API from Scopus
