@@ -1,5 +1,5 @@
 # Scopus-Crawler
-crawl data from Scopus
+Crawl data from Scopus
 
 # Installation
 ```bash
