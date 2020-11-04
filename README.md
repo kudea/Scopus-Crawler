@@ -6,7 +6,7 @@ crawl data from Scopus
 pip install beautifulsoup4
 ```
 ```bash
-pip install pip install selenium
+pip install selenium
 ```
 # Method
 Java & Python
