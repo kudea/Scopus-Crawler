@@ -1,8 +1,8 @@
 # Scopus-Crawler
 Crawl data from Scopus
 ## Background Info
-Require legal API from Scopus
-Require Scpous Account
+Require Scpous Account and legal API from Scopus
+
 
 # Installation
 ```bash
